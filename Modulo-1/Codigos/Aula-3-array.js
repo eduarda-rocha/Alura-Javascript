@@ -6,11 +6,11 @@ const destinos = new Array(
 );
 console.log(destinos);
 
-// Adicionando um elemento no array:
+// Adicionar um elemento no array:
 destinos.push(`Coreia`);
 console.log(destinos);
 
-// Removendo um elemento do array:
+// Remover um elemento do array:
 destinos.splice(2,1); // o array começa no posicao 0, ou seja, é zero-based
 console.log(destinos);
 
