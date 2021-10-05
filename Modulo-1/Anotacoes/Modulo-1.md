@@ -31,3 +31,15 @@
 * Palavras reservadas como por exemplo `new`
 
 * Indices do array (começa no zero), zero-based
+
+## Aula 4 - Condicionais 
+
+* If e Else
+
+* Operadores lógicos (&& and e || or)
+
+* if encadeado
+
+* else if
+
+
