@@ -34,12 +34,24 @@
 
 ## Aula 4 - Condicionais 
 
-* If e Else
+* `if` e `else`
 
-* Operadores lógicos (&& and e || or)
+* Operadores lógicos (`&&` and e `||` or)
 
-* if encadeado
+* `if` encadeado
 
-* else if
+* `else if`
 
+## Aula 5 - Iterando sobre coleções
 
+* `while`
+
+* `break`
+
+* Usando o Debbuger do VS Cde;
+
+* Entendendo o fluxo de execução do código;
+
+* configurando o debbuger do VSCode;
+
+* `for` Loop;
