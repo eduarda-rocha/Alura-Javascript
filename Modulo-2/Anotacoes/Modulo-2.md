@@ -10,3 +10,10 @@
 
 * Operador `new`
 
+## Aula 2 - Adicionando comportamentos 
+
+* Criação de métodos
+* Palavra chave `this`
+* Encapsulamento
+* Proposta de atributos privados `#`
+* `return` e `early return`
