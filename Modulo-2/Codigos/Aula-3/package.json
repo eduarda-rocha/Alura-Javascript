@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto bytebank da Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduarda-rocha/Alura-Javascript.git"
+  },
+  "author": "Bárbara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduarda-rocha/Alura-Javascript/issues"
+  },
+  "homepage": "https://github.com/eduarda-rocha/Alura-Javascript#readme",
+  "type": "module"
+}
