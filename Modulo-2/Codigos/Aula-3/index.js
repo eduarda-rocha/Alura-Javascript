@@ -20,5 +20,6 @@ ccAline.depositar(1200);
 
 ccVitor.transferir(100, ccAline);
 
-console.log(ccAline);
-console.log(ccVitor);
+console.log(ccAline.cliente);
+console.log(ccVitor.cliente);
+console.log(ccVitor.saldo);

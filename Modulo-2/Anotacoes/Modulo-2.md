@@ -35,3 +35,15 @@
 * Tipos de valor e tipos de referência
 
 * Alterando dinamicamente um objeto
+
+## Aula 4 - Acessando atributos privados 
+
+* Diferenças entre null e undefined
+
+* Aprofundando nos conceitos de referências a um espaço de memória
+
+* `get` e `set`
+
+* Melhor encapsulamento da classe
+
+* Protegendo atributos sensíveis
