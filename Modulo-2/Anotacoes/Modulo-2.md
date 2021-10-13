@@ -47,3 +47,13 @@
 * Melhor encapsulamento da classe
 
 * Protegendo atributos sensíveis
+
+## Aula 5 - Construtores e estáticos
+
+* Construtores `constructor(){}`
+
+* Encapsulamento
+
+* Atributos "readonly"
+
+* Atributos estáticos `static`

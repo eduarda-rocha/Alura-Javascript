@@ -4,6 +4,13 @@ export class ContaCorrente {
     agencia;
     #cliente;
     #saldo = 0; // atributo privado 
+    static numeroContas = 0;
+
+    constructor (agencia, cliente){
+        this.agencia = agencia;
+        this.#cliente = cliente;
+        ContaCorrente.numeroContas ++;
+    }
 
     set cliente(novoValor){
         if(novoValor instanceof Cliente){
