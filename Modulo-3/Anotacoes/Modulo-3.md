@@ -39,3 +39,13 @@
 * Métodos abstratos
 
 * Erros em tempo de execução
+
+## Aula 4 - Sistema interno
+
+* Revisão de herança,boas práticas de código e encapsulamento
+
+* Polimorfismo
+
+* Métodos estáticos
+
+* Maneiras de tratar objetos de diferentes tipos de maneira parecida
