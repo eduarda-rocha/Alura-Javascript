@@ -49,3 +49,15 @@
 * Métodos estáticos
 
 * Maneiras de tratar objetos de diferentes tipos de maneira parecida
+
+## Aula 5 - Interfaces e Duck Type
+
+* operador `in`
+
+* operador `instanceOf`
+
+* Como proteger nossos sistemas
+
+* interfaces padronizadas
+
+* Ducky Type
